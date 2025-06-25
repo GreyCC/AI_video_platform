@@ -1,0 +1,182 @@
+{
+    "Penalty": {
+        "eng": [
+            "Penalty awarded in the penalty area.",
+            "A penalty kick is now being taken.",
+            "Goalkeeper will attempt to save the penalty."
+        ],
+        "can": [
+            "犯规发生在禁区内的点球。",
+            "主罚手准备执行点球。",
+            "守门员将尝试扑救点球。"
+        ]
+    },
+    "Kick-off": {
+        "eng": [
+            "Kick-off begins the first half.",
+            "Team A starts with the ball.",
+            "Restart after a goal or half-time."
+        ],
+        "can": [
+            "开球开始上半场。",
+            "A队获得开球权。",
+            "进球或半场结束后的重新开始。"
+        ]
+    },
+    "Goal": {
+        "eng": [
+            "Goal scored by Team B!",
+            "What a wonderful goal!",
+            "The ball is now out of play."
+        ],
+        "can": [
+            "B队进球了！",
+            "多么精彩的进球！",
+            "球现在出界了。"
+        ]
+    },
+    "Substitution": {
+        "eng": [
+            "Substitution: Player A comes on for Player B.",
+            "Team makes a tactical substitution.",
+            "Fresh legs coming on!"
+        ],
+        "can": [
+            "换人：玩家A替换玩家B上场。",
+            "球队进行战术换人。",
+            "新鲜的双腿上场了！"
+        ]
+    },
+    "Offside": {
+        "eng": [
+            "Offside! Play is stopped.",
+            "The assistant referee signals offside.",
+            "Positioning was just offside."
+        ],
+        "can": [
+            "越位！比赛停止。",
+            "助理裁判示意越位。",
+            "位置刚刚越过了越位线。"
+        ]
+    },
+    "Shots on target": {
+        "eng": [
+            "Shots on target! That was close.",
+            "A dangerous shot towards the goal.",
+            "Good shot! It's heading towards the top corner."
+        ],
+        "can": [
+            "射正！这太接近了。",
+            "一次危险的射门朝向球门。",
+            "好射门！球正向球网上方飞去。"
+        ]
+    },
+    "Shots off target": {
+        "eng": [
+            "Shot went just wide.",
+            "Close but no goal.",
+            "That was off target."
+        ],
+        "can": [
+            "射偏了。",
+            "很接近但没有进球。",
+            "这次射门没有射正。"
+        ]
+    },
+    "Clearance": {
+        "eng": [
+            "Clearance from the back.",
+            "Long ball away from danger.",
+            "Good defensive clearance."
+        ],
+        "can": [
+            "回传球。",
+            "长传远离危险区域。",
+            "良好的防守解围。"
+        ]
+    },
+    "Ball out of play": {
+        "eng": [
+            "Ball out of play! Throw-in for the opposing team.",
+            "That was a good save, but the ball is out.",
+            "Restart with a goal kick."
+        ],
+        "can": [
+            "球出界了！对方获得掷界球。",
+            "这是个好扑救，但球出了底线。",
+            "将进行球门球重新开始。"
+        ]
+    },
+    "Throw-in": {
+        "eng": [
+            "Take the throw-in for Team A.",
+            "Quick throw to launch an attack.",
+            "The throw-in is coming in."
+        ],
+        "can": [
+            "A队执行掷界球。",
+            "快掷界球发动进攻。",
+            "掷界球开始。"
+        ]
+    },
+    "Foul": {
+        "eng": [
+            "Foul! Free kick for the defending team.",
+            "That was a clear handball.",
+            "Penalty kick awarded for a foul in the penalty area."
+        ],
+        "can": [
+            "犯规！攻方获得间接任意球。",
+            "这明显是手球。",
+            "判罚点球，因为在禁区内犯规。"
+        ]
+    },
+    "Indirect free-kick": {
+        "eng": [
+            "Indirect free kick! Play needs to go back.",
+            "Team B will take an indirect free kick.",
+            "The ball must be passed before scoring."
+        ],
+        "can": [
+            "间接任意球！比赛必须回传。",
+            "B队执行间接任意球。",
+            "球必须被传递后才能射门。"
+        ]
+    },
+    "Direct free-kick": {
+        "eng": [
+            "Direct free kick! Can score directly into the goal.",
+            "Take the direct free kick here.",
+            "Long-range direct! This could be a goal."
+        ],
+        "can": [
+            "直接任意球！可以直接射门进球。",
+            "在这里执行直接任意球。",
+            "远距离直接射门！这可能是个进球。"
+        ]
+    },
+    "Corner": {
+        "eng": [
+            "Corner kick awarded! Team A sends in the ball.",
+            "Good position for a corner.",
+            "The ball is swung in from the corner."
+        ],
+        "can": [
+            "角球！A队开角球。",
+            "好位置的角球。",
+            "角球球传入禁区。"
+        ]
+    },
+    "Card": {
+        "eng": [
+            "Yellow card shown to the player.",
+            "Red card shown for a serious foul.",
+            "Two yellows resulting in a red card."
+        ],
+        "can": [
+            "黄牌出示给该球员。",
+            "因严重犯规出示红牌。",
+            "两张黄牌累积变红牌。"
+        ]
+    }
+}
