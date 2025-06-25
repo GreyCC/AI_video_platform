@@ -1,0 +1,392 @@
+{
+    "Penalty": {
+        "eng": [
+            "Penalty awarded after a clear foul inside the box!",
+            "The referee confidently points to the penalty spot!",
+            "Tension mounts as the penalty taker prepares",
+            "The goalkeeper performs nervy movements on the goal line",
+            "Powerful strike! The ball rockets into the top corner!",
+            "The penalty execution fooled the keeper completely",
+            "Incredible penalty save! Goalkeeper becomes the hero!",
+            "Defenders protest intensely but the decision stands",
+            "Ice-cool finish placed perfectly into the bottom corner",
+            "Penalty taker slipped! Ball sails embarrassingly over"
+        ],
+        "can": [
+            "禁區內明顯犯規被判十二碼！",
+            "球證堅決手指篤向十二碼點！",
+            "十二碼手準備主射 全場屏息以待",
+            "龍門喺白界線上緊張踱步",
+            "炮彈式射門直飛網頂！靚到極！",
+            "主射手完美騙過龍門撲救",
+            "神級救波！門將化身英雄！",
+            "守衞激烈抗議但判決不變",
+            "冷靜處理射入死角 收死晒",
+            "主射跣腳！個波沖天炮飛走 核爆"
+        ]
+    },
+    "Kick-off": {
+        "eng": [
+            "Referee's whistle initiates this crucial encounter",
+            "Second half commences with midfield possession",
+            "Ceremonial first pass to start proceedings",
+            "Immediate high pressing from the opening seconds",
+            "Surprise long ball attack directly from kick-off!",
+            "The captain leads the team from center circle",
+            "Kickoff taken amid roaring stadium atmosphere",
+            "Teams choose cautious build-up play initially",
+            "Ambitious long-range chip from the kick-off spot!",
+            "Kick-off delayed as players finalize positions"
+        ],
+        "can": [
+            "球證雞聲一響 大戰正式展開",
+            "下半場由中場控球開始作賽",
+            "象徵式橫傳開波做個樣先",
+            "開波即玩高壓逼搶冇講笑",
+            "開波直飛長傳偷襲後防！",
+            "隊長喺中圈帶領睇齊人腳",
+            "球場沸騰氣氛下開波",
+            "開局選擇穩陣後場搓波",
+            "開波即遠距離笠射嚇窒全場",
+            "排陣未企定搞到遲開波"
+        ]
+    },
+    "Goal": {
+        "eng": [
+            "SPECTACULAR GOAL!!! Clinical strike into the far corner!",
+            "THE NET BULGES! Team takes crucial lead!",
+            "Bicycle kick perfection! Directly into roof of net!",
+            "Slotted under keeper's body! Textbook precision!",
+            "Cruel deflection wrong-footed the goalkeeper!",
+            "Decisive goal! Seems to seal the game now",
+            "Chipped finish over advancing keeper! Poetry in motion!",
+            "Bullet header! Keeper stranded in no-man's land",
+            "Last-gasp equalizer! Stadium erupts in pandemonium!",
+            "Scorer refuses celebration against former club"
+        ],
+        "can": [
+            "世界波入網！！！死角射穿龍門！",
+            "網仔震哂！球隊領先重要入球！",
+            "倒掛金鈎靚絕！直掛死角！",
+            "穿過龍門大細！精準到極！",
+            "轉向波陰到龍門暈哂！殘忍！",
+            "關鍵入波！似乎大局已定",
+            "笠死出迎嘅龍門！瀟灑之極！",
+            "爆炸頭槌！龍門瞓低都救唔到",
+            "補時逼和！全場氣氛嗌到癲！",
+            "倒戈入波冇慶祝畀面舊東家"
+        ]
+    },
+    "Substitution": {
+        "eng": [
+            "Fourth official signals substitution with electronic board",
+            "Late tactical change brings fresh attacking options",
+            "Young talent earns debut appearance this late",
+            "Double substitution injects new energy into midfield",
+            "Player exits at snail's pace - clear time-wasting",
+            "Injury forces early replacement in crucial position",
+            "Fresh-legged winger replaces tired defensive player",
+            "Entering player receives detailed tactical briefing",
+            "Surprising goalkeeper substitution despite clean sheet",
+            "Standing ovation for departing club legend"
+        ],
+        "can": [
+            "第四裁判舉電子牌示意換人",
+            "臨尾戰術換人放多個前鋒上去",
+            "新仔咁遲有機會首次登場",
+            "雙換入中場注入新動力",
+            "球員龜速離場 明顯拖時間",
+            "重要位置因傷被迫換人",
+            "生龍活虎嘅翼鋒入替攰到死嘅守將",
+            "入替球員接受最後戰術指示",
+            "清白紙突然換龍門令人費解",
+            "全場起立歡送老退功臣"
+        ]
+    },
+    "Offside": {
+        "eng": [
+            "Late flag! Attacker caught offside by minimal margin",
+            "Disallowed goal confirmed - clear offside positioning",
+            "Attacker mistimed run beyond last defender",
+            "Assistant's flag spares defensive blushes",
+            "Active involvement while offside cancels potential goal",
+            "Perfectly executed offside trap fools attackers",
+            "Player needlessly straying offside kills momentum",
+            "Delayed whistle caused confusion but correct decision",
+            "Leaning beyond defensive line made offside obvious",
+            "Eagle-eyed assistant spots subtle offside movement"
+        ],
+        "can": [
+            "遲舉旗！偷雞失敗 差隻手掌位",
+            "食詐糊 清楚嘅越位位置",
+            "前鋒走甩越位線過份進取",
+            "旁證支旗拯救豆腐防線",
+            "參與攻勢越位搞到冇咗個入波",
+            "越位陷阱完美執行 前鋒中計",
+            "球員盲目企越位 破壞殺機",
+            "遲吹雞亂成一片但判啱",
+            "身位凸出防線想唔俾都唔得",
+            "旁證金睛火眼睇穿微妙移動"
+        ]
+    },
+    "Shots on target": {
+        "eng": [
+            "Testing shot forces keeper into full-stretch save!",
+            "Top-corner curler! Goalkeeper finger-tips onto crossbar!",
+            "Brilliant knuckle shot! Keeper barely manages parry",
+            "One-on-one situation! Goalkeeper bravely blocks shot",
+            "Deflected shot requires miraculous reflex save",
+            "Powerful header on target! Comfortable keeper catch",
+            "Precision far-post shot! Keeper's sensational finger-tip save",
+            "World-class diving save denies certain goal",
+            "Shot rattles the post! Closest effort of the match",
+            "Fierce volley parried away by alert goalkeeper"
+        ],
+        "can": [
+            "考起龍門！飛盡身撲救險球！",
+            "熨死角！門將僅僅托中楣！",
+            "變奏球！龍門勉力撲出冇失",
+            "單刀赴會！門將悍勇擋出",
+            "折射波召喚神反應撲救",
+            "頭槌攻門！龍門實淨捉實",
+            "射遠柱！龍門飛篤魚生救出",
+            "神級飛撲擋咗必入波！",
+            "中柱彈出！今場最接近入球",
+            "窩利勁射俾龍門反應神速撲走"
+        ]
+    },
+    "Shots off target": {
+        "eng": [
+            "Shot skyrockets! Clears crossbar by several meters",
+            "Wildly off-target! Misses side netting entirely",
+            "Hits side netting! Fooled half the stadium",
+            "Hesitation turns shot attempt into easy catch",
+            "Ambitious bicycle-kick attempt goes horribly awry",
+            "Shot dragged wide! Poor connection with ball",
+            "Golden one-on-one chance ballooned over goal",
+            "Long-range rocket shot lands in training pitch",
+            "Embarrassing air-shot miss from close range",
+            "Open goal skewed wide! Shocking miss!"
+        ],
+        "can": [
+            "炒飛機！高出咗幾個波位",
+            "亂黎射！遠離龍門幾丈",
+            "射網側！呃晒半場觀眾",
+            "猶豫唔射變交俾龍門食",
+            "扮勁倒掛結果炒大咗",
+            "射到一仆一碌！食唔應部位",
+            "單刀揸油射咗去波飛",
+            "遠射衝力射球飛咗去練習場",
+            "超近撻Q空氣波失禮街坊",
+            "空門射斜！離譜失機！"
+        ]
+    },
+    "Clearance": {
+        "eng": [
+            "Urgent boot clears immediate danger",
+            "Goal-saving diving header clearance! Inspiring!",
+            "Hapless hoof presents opponents with throw-in",
+            "Clever clearance sparks instant counter-attack",
+            "Aerial dominance! Firm headed clearance",
+            "Last-gasp interception clears off goal-line",
+            "Sliding clearance prevents certain goal",
+            "Calm clearance under pressure finds teammate",
+            "Spectacular overhead clearance by veteran defender",
+            "Crucial clearance saves points"
+        ],
+        "can": [
+            "情急大腳暫解燃眉之急",
+            "飛身頭槌護空門！救命波！",
+            "亂咁抽幾腳益咗對手掟波",
+            "聰明解圍變突擊第一腳",
+            "頂贏高空波！清脆頂走危機",
+            "白界前剷波護駕成功",
+            "奔走剷波擋走必入球",
+            "壓力下冷靜清波交俾隊友",
+            "老將人辦倒掛解圍顯功架",
+            "關鍵清波搶番一分"
+        ]
+    },
+    "Ball out of play": {
+        "eng": [
+            "Deflected touch results in corner kick",
+            "Player demonstrates Olympic sprint chasing loose ball touch",
+            "Assistant confirms ball fully crossed line after scramble",
+            "Goal kick awarded after aerial duel possession lost",
+            "Match paused for ball retrieval after wild clearance",
+            "Referee demands pitch repair before restart",
+            "Slippery surface causes ball to skid beyond line",
+            "Ball lodged in advertising boards causes delay",
+            "Time wasting accusations as ball mysteriously vanish",
+            "Player avoids collision by hurdling advertising"
+        ],
+        "can": [
+            "彈性十足造成角球機會",
+            "球員百米衝刺追個波邊",
+            "爭波後旁證確認成個波出界",
+            "頂輸頭槌而造成龍門球",
+            "解圍清遠咗要暫停執波",
+            "球證要求翻平草地先繼續",
+            "場地濕跣致溜到最後出界",
+            "波攝咗入廣告板要拯救",
+            "個波唔見被質疑拖時間",
+            "球員飛避廣告板化險為夷"
+        ]
+    },
+    "Throw-in": {
+        "eng": [
+            "Quick throw-in catches defense sleeping!",
+            "Long rocket throw-in creates box chaos!",
+            "Juryside throw halted for jersey adjustment",
+            "Foul throw detected! Opposition gain possession",
+            "Short throw tactic develops crossing opportunity",
+            "Grenade-style throw aimed at penalty spot",
+            "Thrower violations gift possession to opposition",
+            "Ball wiping ritual before critical throw",
+            "Howling wind carries throw straight out",
+            "Thrower's fake deception fools no defenders"
+        ],
+        "can": [
+            "快開界外球偷雞成功！",
+            "手榴彈掟波搞到禁區墟冚！",
+            "界外球因衫未整好被叫停",
+            "掟波違例！益咗對手執雞",
+            "短界外變靚傳中機會",
+            "炸彈式掟波掟入心臟地帶",
+            "擲球犯規將控球權益對手",
+            "重要關頭抹乾雪先掟波",
+            "大風無情吹到唔見咗個波",
+            "拋波假動作呃唔到任何人"
+        ]
+    },
+    "Foul": {
+        "eng": [
+            "Tactical foul halts dangerous counter-attack! Booked",
+            "Dangerous high boot challenge! Deserved foul",
+            "Simulation detected! Diver receives yellow card",
+            "Reckless studs-up tackle! Straight red!",
+            "Shirt-pulling incident goes unpunished",
+            "Referee shows card after multiple warnings",
+            "Professional foul stops promising move! Play advantage",
+            "Shocking two-footed lunge! Clear red card!",
+            "Revenge tackle creates painful collision",
+            "Off-the-ball shove results in indirect freekick"
+        ],
+        "can": [
+            "戰術犯截殺反擊！食黃牌",
+            "批踭到下巴必吹罰自由球",
+            "插水扮嘢俾球證捉正！黃牌",
+            "剷到踭朝上！直紅冇情講！",
+            "暗拉衫走甩咗冇罰",
+            "球證冇咁好氣直接出牌",
+            "專業犯規窒進攻！得益繼續中",
+            "雙腳剷埋去！明顯紅牌動作！",
+            "尋仇式剷波惹起碰撞衝突",
+            "場外推撞判罰間接自由球"
+        ]
+    },
+    "Indirect free-kick": {
+        "eng": [
+            "Dangerous passback! Indirect freekick inside box!",
+            "Must touch before shot attempt counts",
+            "High-foot incident results in indirect kick",
+            "Wall ordered back to proper distance",
+            "Clever wall jump saves near-certain goal",
+            "Quick tap before shot surprises defense",
+            "Direct shot error! Freekick retaken",
+            "Wily chip clears wall but misses target",
+            "Far-post poacher lurks for knockdown",
+            "Double-touch deception confuses setup"
+        ],
+        "can": [
+            "後衞回傳累事！禁區間接自由球！",
+            "必需傳一腳先射得入波",
+            "舉腳過頭危險動作造成間接波",
+            "人牆距離不足 被球證趕後",
+            "人牆跳頂救出半必入球",
+            "快開拍一腳後射門出奇制勝",
+            "直接射門犯規！要再開多次",
+            "聰敏笠波過人牆但射失",
+            "遠柱殺手埋伏等執雞",
+            "扮傳兩腳呃亂對手部署"
+        ]
+    },
+    "Direct free-kick": {
+        "eng": [
+            "Prime position for direct freekick goal!",
+            "Dead-ball specialist territory! Nerves show",
+            "Knuckleball freekick swerves violently!",
+            "Thunderous shot rattles defensive wall",
+            "Curling masterpiece beating everyone! Goal!",
+            "Wall unhappy after ball ricochets painfully",
+            "Bending shot expertly parried wide!",
+            "Whistling shot clears jumping defense!",
+            "Deceptive freekick fools defense yet misses",
+            "Final-minute freekick becomes golden chance"
+        ],
+        "can": [
+            "自由球靚位有機射入！",
+            "食家專用波！有啲緊張喎",
+            "變奏自由球勁識彎！",
+            "炮彈射中人牆痛到跳起",
+            "彎波靚絕收死龍門！入波！",
+            "人牆隊友波餅食到反晒臉",
+            "美妙窩利被高人拍出",
+            "射波嘯聲飛越跳起嘅人牆",
+            "聰明自由球組織騙到人但打飛機",
+            "臨尾自由球成黃金機會"
+        ]
+    },
+    "Corner": {
+        "eng": [
+            "Swerving in-swinger corner delivered!",
+            "Short corner tactic creates better shooting angle",
+            "Far post service meets unmarked attacker!",
+            "Near post flick-on reaches available players",
+            "Goalkeeper claims confidently amidst collisions",
+            "Towering corner causes aerial mayhem",
+            "First clearance becomes shot opportunity",
+            "Back-post volley connects cleanly! Goal!",
+            "Post defenders guard against close-range shots",
+            "Zone marking vulnerable during set pieces"
+        ],
+        "can": [
+            "急勁內彎角球開出！",
+            "短角球戰術製造更靚射門位",
+            "遠柱波去到空晒嘅攻擊手！",
+            "近柱彈波製造二傳機會",
+            "門將喺人堆中悍實接波",
+            "吊高波傳中引起高波亂戰",
+            "第一解圍變成遠射機會",
+            "遠柱窩利半車身射入！靚波！",
+            "睇柱守衛防近門快射",
+            "區域防守喺死球時易走漏"
+        ]
+    },
+    "Card": {
+        "eng": [
+            "Instant yellow for reckless sliding challenge",
+            "Tactical shirt-pull earns deserved booking",
+            "Straight red! Outrageous violent conduct!",
+            "Controversial first career red card shown",
+            "Referee patience ends - second yellow produced",
+            "Time-wasting at throw-in results in booking",
+            "Excessive celebration crossing into booking",
+            "Mass confrontation! Multiple cards shown",
+            "Strategic time-wasting caution accepted",
+            "Red card for ignoring required retreat distance"
+        ],
+        "can": [
+            "魯莽剷波即攞黃牌",
+            "拉衫冇走雞合理黃牌",
+            "直紅冇情講！離譜暴力動作！",
+            "爭議性生涯首張紅牌",
+            "球證受夠 第二度黃牌現身",
+            "掟波龜速前進食黃合理",
+            "慶祝過龍加持黃一張",
+            "大規模衝突派出多張牌",
+            "戰略性拖時間食黃啃落",
+            "犯完規唔肯退後食紅牌抵死"
+        ]
+    }
+}
